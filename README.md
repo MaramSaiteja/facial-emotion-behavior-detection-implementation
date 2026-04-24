@@ -266,7 +266,7 @@ MIT License - See LICENSE file for details
 
 ## 🤖 Contributing
 
-This is an educational project consolidating research implementations. Feel free to:
+This educational and research project consolidates implementations of facial emotion and behavior detection using deep neural networks. Components of this system were also implemented and tested within a university campus surveillance camera environment to evaluate real‑world monitoring scenarios.
 - Report issues
 - Suggest improvements
 - Create pull requests
