@@ -200,13 +200,14 @@ All components include pre-trained models:
 
 ---
 
+
 ## 🤝 Attribution & Credits
 
 ### Original Project by Bhargav Chintam
-This project is based on the original work by **Bhargav Chintam**:
+This project is based on the original work by **Bhargav Chintam** **Venkata Nagasai Teja Maram** **Sumanth M** **Lokireddy Sai Siddarth Readdy**:
 - [GitHub Repository](https://github.com/bhargavchintam/FACIAL-EMOTION-BEHAVIOR-DETECTION-USING-DNN)
 
-**Bhargav's Contributions:**
+**Venkata Nagasai Teja Maram Co-Inventor:**
 - Emotion Detection implementation and training
 - Face Mask Detection models and inference code (multi-framework support)
 - Drowsiness Detection implementation
