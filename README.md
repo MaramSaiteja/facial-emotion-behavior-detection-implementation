@@ -204,7 +204,7 @@ All components include pre-trained models:
 ## 🤝 Attribution & Credits
 
 ### Original Project by Bhargav Chintam
-This project is based on the original work by **Bhargav Chintam** **Venkata Nagasai Teja Maram** **Sumanth M** **Lokireddy Sai Siddarth Readdy**:
+This project is based on the original work by **Bhargav Chintam** , **Venkata Nagasai Teja Maram** , **Sumanth M** , **Lokireddy Sai Siddarth Readdy**:
 - [GitHub Repository](https://github.com/bhargavchintam/FACIAL-EMOTION-BEHAVIOR-DETECTION-USING-DNN)
 
 **Venkata Nagasai Teja Maram Co-Inventor:**
