@@ -266,11 +266,14 @@ MIT License - See LICENSE file for details
 
 ## 🤖 Contributing
 
-This educational and research project consolidates implementations of facial emotion and behavior detection using deep neural networks. Components of this system were also implemented and tested within a university campus surveillance camera environment to evaluate real‑world monitoring scenarios.
+This repository contains implementations of facial emotion recognition, face mask detection, and driver drowsiness detection using deep learning and computer vision techniques. 
+Some components of these systems were also implemented and tested in a university campus surveillance and monitoring environment to evaluate real‑world video analysis scenarios.
+
+Contributions and improvements are welcome:
 - Report issues
 - Suggest improvements
-- Create pull requests
-- Fork and adapt for your use cases
+- Submit pull requests
+- Fork and adapt for your own projects or applications
 
 ---
 
