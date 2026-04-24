@@ -156,12 +156,12 @@ cd Face-Mask-Detection
 python pytorch_infer.py --img-path /path/to/image
 ```
 
-### Face Mask Detection - Video/Webcam
+### Face Mask Detection - Video/Webcam/surveillancecam
 ```bash
 cd Face-Mask-Detection
 # For video file
 python pytorch_infer.py --img-mode 0 --video-path /path/to/video
-# For webcam
+# For webcam/surveillancecam
 python pytorch_infer.py --img-mode 0 --video-path 0
 ```
 
